@@ -1,0 +1,8 @@
+Write a program that displays sum of two numbers
+hi bhai
+
+bhai ye hai a = 3;//change this value and the sum will change
+bhai ye hai b = 7;//change this value and the sum will change
+bol bhai a + " aur " + b + " plus hwa to answer aya : " + (a + b) + "....Kya Baat Hai Bhai";
+
+bye bhai
