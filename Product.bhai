@@ -1,0 +1,16 @@
+Write a program that prints table of a number without using * operator
+hi bhai 
+
+bhai ye hai a = 3;
+bhai ye hai b = 0;
+bhai ye hai i = 1;
+
+bol bhai "Bhai aj hum seekhay ge " + a + " ka table";
+
+jab tak bhai(i <= 10){
+b = b + a;
+bol bhai a + " x " + i + " = " + b;
+i = i + 1;
+}
+
+bye bhai
