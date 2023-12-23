@@ -1,0 +1,14 @@
+Write a program to reverse a given number
+hi bhai 
+
+bhai ye hai a = 234;
+bhai ye hai b = 0;
+
+jab tak bhai(a > 1){
+    b = b * 10;
+    b = b + (a % 10);
+    a = a / 10;
+}
+bol bhai b;
+
+bye bhai
