@@ -1,0 +1,17 @@
+Write a program which prints the minimum number out of two numbers
+hi bhai
+
+bhai ye hai a = 3; 
+bhai ye hai b = 2;
+//Change the upper values to change the results
+bol bhai "Bhai 'a' ki value ha: " + a + " aur 'b' ki value ha: " + b;
+agar bhai (a < b){
+    bol bhai "Aray Bhai ye 'a' chota ha";
+}nahi to bhai (a == b){
+    bol bhai "Aray Bhai ye dono to brabar ha";
+} warna bhai {
+    bol bhai "Aray Bhai ye 'b' chota ha";
+}
+
+
+bye bhai
