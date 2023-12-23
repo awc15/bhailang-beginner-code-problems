@@ -1,0 +1,17 @@
+Write a program to swap two numbers without using additional variable
+hi bhai 
+
+bhai ye hai a = 3;
+bhai ye hai b = 5;
+
+bol bhai "Bhai 'a' ki value ha: " + a + " aur 'b' ki value ha: " + b;
+bol bhai "Aur ye SWAP se phle ha Bhai";
+
+a = a + b;
+b = a - b;
+a = a - b;
+
+bol bhai "Swap ho gaya bhai";
+bol bhai "Bhai 'a' ki value ha: " + a + " aur 'b' ki value ha: " + b;
+
+bye bhai

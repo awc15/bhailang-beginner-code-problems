@@ -1,0 +1,13 @@
+Write a program that tells whether a number is Even or Odd
+hi bhai
+
+bhai ye hai a = 2;//Change this number to see change in result
+
+agar bhai (a % 2 == 0){
+    bol bhai "Bhai ye to Even ha Bhai";
+} warna bhai
+{
+    bol bhai "Bhai ye to Odd ha Bhai";
+}
+
+bye bhai
